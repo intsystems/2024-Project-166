@@ -15,16 +15,16 @@
 
 .. class:: center
 
-    :Название исследуемой задачи: Мое название работы
-    :Тип научной работы: M1P/НИР/CoIS
-    :Автор: Имя Отчество Фамилия
-    :Научный руководитель: степень, Фамилия Имя Отчество
-    :Научный консультант(при наличии): степень, Фамилия Имя Отчество
+    :Название исследуемой задачи: Методы машинного обучения для функционального картирования мозга
+    :Тип научной работы: M1P
+    :Автор: Арина Сергеевна Чумаченко
+    :Научный руководитель: к.ф.-м.н., Шараев Максим Геннадьевич
+    :Научный консультант(при наличии): 
 
 Abstract
 ========
 
-Purus sit amet luctus venenatis lectus magna fringilla. Condimentum id venenatis a condimentum vitae sapien. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Eget egestas purus viverra accumsan in. Nam aliquam sem et tortor. Donec et odio pellentesque diam volutpat commodo. Odio pellentesque diam volutpat commodo sed egestas. Sit amet dictum sit amet justo. Pellentesque sit amet porttitor eget. Imperdiet sed euismod nisi porta lorem mollis aliquam ut. Quis varius quam quisque id diam vel quam elementum. Ornare lectus sit amet est placerat in. Vulputate dignissim suspendisse in est ante. Elit sed vulputate mi sit amet mauris. Egestas sed tempus urna et pharetra pharetra. Viverra tellus in hac habitasse platea dictumst vestibulum rhoncus.
+Functional neuroimaging research commonly uses either task-based or resting-state paradigms to study brain function. Resting-state approaches provide flexibility and scalability in characterizing brain function, while task-based techniques offer superior localization capabilities. One of these models is BrainsurfCNN, a surface-based fully-convolutional neural network model that utilizes the brain's cortical sheet representation. There is also another approach for solving the functional brain mapping problem, this is Spatially constrained Independent Component Analysis (ICA) for Functional Magnetic Resonance Imaging (fMRI) that utilizes spatial information within the framework of constrained ICA with fixed-point learning. The main goal of this work is to create a model that take a 4D-tensor of brain characteristics as input and return the map with the necessary labels.
 
 Research publications
 ===============================
